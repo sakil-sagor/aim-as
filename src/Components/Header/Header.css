@@ -1,0 +1,22 @@
+.profile-icon-area{
+    position: absolute;
+    top: 70px;
+    right: 150px;
+    
+}
+.active-profile-icon-area{
+    display: none;
+}
+
+
+
+/* 
+.profile-shortcut{
+  
+    width: 300px;
+    background: blue;
+}
+
+.active-profile-shortcut{
+    display: block;
+} */

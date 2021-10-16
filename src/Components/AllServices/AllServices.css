@@ -1,0 +1,34 @@
+.services-area-all{
+  background: #eeeded;
+}
+.tab-list {
+
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    font-size: 18px;
+    padding: 50px 0 0 0;
+  
+  }
+  .tabs {
+ 
+    padding:0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+  }
+  .active-tabs {
+    color:rgb(190, 24, 93);
+    text-decoration: underline;
+  }
+  .tab-content {
+      display: none;
+      background-color: #eeeded;
+      padding: 10px;
+  }
+  
+  .tab-active-content {
+      display: block;
+  }

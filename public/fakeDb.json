@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1001,
+        "language": "Spanish  ",
+        "Category": "Conversation",
+        "seat": 30,
+        "price": 240,
+        "img": "images/1.jpg",
+        "rating": 4.1,
+        "teacher": "Kaylin Moore",
+        "duration": "3 Month",
+        "description": "According to the research made by the University of Lyon, Spanish is considered to be the easiest language to learn. No wonder it is ranked as the world's second widely spoken language after Chinese (Mandarin). Besides, it is the third language widely used in the net, after Chinese and English.Spanish is the official language in Spain Equatorial Guinea and Hispanic America (19 countries, among them are Argentina, Chile, Cuba, Mexico, Puerto Rico, Venezuela, etc.). Besides, Spanish is used as the official language in the United Nations, the European Union, the Community of Latin and Caribbean States, and other international organizations. Being spoken worldwide, it is the minority language of such countries as Andorra, Belize, Gibraltar, and the USA.Being such a popular language across the globe, it has about 577 million followers. Among them are 480 million native speakers, 75 million people speaking Spanish as a second language, and about 22 million"
+    },
+    {
+        "id": 1002,
+        "language": "French ",
+        "Category": "Mother tongue",
+        "seat": 21,
+        "price": 200,
+        "img": "images/2.jpg",
+        "rating": 5,
+        "teacher": "Nuri Cikana",
+        "duration": "4 Month",
+        "description": "French is the language of Molière, Victor Hugo, Jean-Paul Sartre, Alain Delon, Edith Piaf, and Zinedine Zidane! Moreover, it’s the international language of fashion, cooking, theatre, visual arts, architecture, and dance.French is the fifth most widely spoken language in the world and the second most widely learned foreign language after English. It is the official language in 29 countries across different continents. Along with France, it’s widely used in Belgium, Canada, Monaco, Switzerland, Luxemburg, Chad, DR Congo, and Madagascar.About 76 million speakers consider French as their native language, and about 235 million speak it fluently. It is spoken as the first language in France, Quebec, Ontario, Belgium, Bern, Monaco, in some parts of the United States (New Hampshire, Louisiana, Vermont, and Maine), in northern Italy, and partly in Luxembourg."
+    },
+    {
+        "id": 1003,
+        "language": "Italian ",
+        "Category": "Conversation",
+        "seat": 12,
+        "price": 250,
+        "img": "images/3.jpg",
+        "rating": 4.7,
+        "teacher": "Alvard arre",
+        "duration": "3 Month",
+        "description": "If you are planning to visit Italy or read the great literary heritage like The Divine Comedy by Dante in original, Italian is here for you!Besides Italy, the Italian language has its official status in such countries as Switzerland, Vatican City, San Marino, and some parts of Slovakia and Croatia. Outside Italy, it is also widely spoken in Albania and the USA. In addition, it is recognized in North and East Africa (as a consequence of colonization of Africa) and is spoken by people in Saudi Arabia.Italian is considered to be a Romance language that belongs to the Indo-European language family. Being a member of the same group as Portuguese, Romanian, Spanish, and French, Italian is considered to be the most romantic of them all.About 93 million people speak Italian worldwide: 69 million individuals in the EU speak it as their native language and 24 million learn Italian as their second language."
+    },
+    {
+        "id": 1004,
+        "language": "Chinese  ",
+        "Category": "Conversation",
+        "seat": 20,
+        "price": 299,
+        "img": "images/4.jpg",
+        "rating": 4.1,
+        "teacher": "Chikna Chora",
+        "duration": "6 Month",
+        "description": "Knowledge of Chinese is essential for those who are going to do business in the East or discover the world of the most ancient literature.Chinese falls into 7-13 dialects that are widely spoken by people worldwide. They are known as the Sinitic languages and are included in the Sino-Tibetan language family. The most popular ones are Mandarin, Wu, Min, and Yue. Mandarin is the first language for about 960 million people who live in the southwest of Mandarin, Wu is spoken by 80 million inhabitants, Min – by 70 million, and Yu – by 60 million. Totally, Chinese is the native language for about 1.2 billion people. It means that every fifth person on earth knows this language.Since Mandarin is the leading dialect, it’s the national language not only in China, but in Taiwan and Singapore, while Yue (Cantonese) is the official language in Macau and Hong Kong. In addition, if you plan to do business in countries, such as Indonesia, Malaysia, Brunei, Philippines, Mongolia, and some mentioned above, you will need to know Chinese, as Mandarin is widely spread there."
+    },
+    {
+        "id": 1005,
+        "language": "Russian ",
+        "Category": "Conversation",
+        "seat": 17,
+        "price": 260,
+        "img": "images/5.jpg",
+        "rating": 5,
+        "teacher": "Kollani Mondil",
+        "duration": "3 Month",
+        "description": "Russian is one of the richest and most complex languages in the world. To understand it, one should first explore the Russian soul. And if you want to go into to space and become an astronaut, you have to know Russian! Nowadays, it’s a requirement for NASA candidates to speak this language.Russian is the second most widespread language on the Internet (after English). It is the most geographically widespread language in Eurasia and the largest native language in Europe. It is also one of the six official languages of the United Nations. It is official in the Russian Federation, Belarus, Kyrgyzstan, and Kazakhstan. Russian is widely used throughout the Baltic states, Central Asia, the Caucasus, and Eastern Europe.It is the most common of the Slavic languages. Russian is the native language for 147 million people in Russia, Belarus, and Ukraine, and about 113 million speak it as a second language. According to the number of native speakers, it is the fifth language in the world (after Arabic (4), Spanish (3), Chinese (2), and English (1))."
+    },
+    {
+        "id": 1006,
+        "language": "Arabic ",
+        "Category": "Basic",
+        "seat": 9,
+        "price": 200,
+        "img": "images/6.jpg",
+        "rating": 4.4,
+        "teacher": "Claster Ranj",
+        "duration": "1 Month",
+        "description": "If you are going to travel or study abroad, or you are keen on the Arab culture, or simply want to sharp your brain, Arabic is the language right for you. Being the official language in more than 20 countries, it will bring you a number of opportunities: getting a better job with a higher salary, widening your horizons, getting new friends, and perhaps, finding a new homeland. Being the language of Islam, Arabic has a long history. Nowadays it is known as MSA (Modern Standard Arabic) – the official languages in education, mass media, and government. Arabic is the official language in 28 countries, which include Egypt, Iraq, Morocco, Palestine, the United Arab Emirates, Algeria, etc. Besides the Arabic world, it's widely spoken by diasporas in such countries as Turkey, Iran, Cyprus, Senegal, Niger, and Mali.Since Arabic is the language of the holy book of Islam, known as the Quran, it fairly has the status of a lingua franca for the population of the Arabic world. There are about 310 million native speakers in the world, and more than 270 million people learn it as a second language."
+    },
+    {
+        "id": 1007,
+        "language": "Swedish ",
+        "Category": "Mother tongue",
+        "seat": 23,
+        "price": 210,
+        "img": "images/7.jpg",
+        "rating": 4,
+        "teacher": "Md Ram",
+        "duration": "3 Month",
+        "description": "Swedish has a unique history dating back to the 15th century. It is the language that has been uniquely preserved and is spoken freely throughout the country, and thanks to the zeal of the government and the people, it has become a common language.Swedish is a great language to start your learning journey! Since it refers to the Indo-European language family and belongs to the North Germanic branch, it’s the official language in Sweden. In addition, it has a legal standing along with Finnish as well. One of the most amazing things that you need to know is that speaking Swedish, you can communicate with native speakers from Denmark and Norway without barriers. Due to the close geographical location, the languages of these countries are similar and by learning Swedish, you learn three languages at once!About 10.5 million people speak Swedish worldwide, and the majority of them are Swedish residents (almost 90%), while the rest live in the USA, Canada, Norway, Estonia, and the United Arab Emirates."
+    },
+    {
+        "id": 1008,
+        "language": "Latin ",
+        "Category": "Conversation",
+        "seat": 14,
+        "price": 240,
+        "img": "images/8.jpg",
+        "rating": 4.8,
+        "teacher": "Jhon Abraham",
+        "duration": "4 Month",
+        "description": "Latin is the language that has given life to five modern languages of the Romance group. They are widely spoken around the world and include French, Spanish, Italian, Portuguese, and Romanian. In brief, Latin has a rich history, as it was the language of the Roman Empire and died out with its fall. But in reality it transformed into Vulgar Latin and then in the Romance languages.Until the 18th century, Latin was the main language of international communication, scholarship, and science. Besides, it was officially recognized in the Kingdom of Poland (10-18th centuries) and the Kingdom of Hungary (11-19th centuries). In addition, it was the official language of the Croatian Parliament within 6 centuries (13th -19th centuries).Though Latin is a dead language, nowadays it has a legal status in Vatican City (in Rome). The knowledge of Latin is vital in medicine, law, and science. Besides, in some universities, mottos are written in Latin as well."
+    },
+    {
+        "id": 1009,
+        "language": "Turkish ",
+        "Category": "Mother tongue",
+        "seat": 25,
+        "price": 230,
+        "img": "images/9.jpg",
+        "rating": 4.5,
+        "teacher": "Jakilin Farnando",
+        "duration": "6 Month",
+        "description": "No matter whether you are going to travel to Turkey and see its breathtaking landscapes or you are planning to do business there, as this is a country with a rapidly growing economy, or you are going to learn a new language that is compared to the game “LEGO”, then Turkish is what you need right now!Turkish is widely spoken in Turkey and Cyprus where it has its official status and in some districts in Kosovo as well. Outside Turkey, the language is spoken in the countries that were formerly the part of the Ottoman Empire. Such countries include Serbia, Bulgaria, Iraq, Romania, among many. Along with that, Turkish diasporas exist in the USA, the UK, Germany, France, Belgium, Austria, Switzerland, and the Netherlands.Turkish is spoken by 88 million people throughout the world. This number includes 75.7 million native speakers and around 12 million of those who learn it as a second language."
+    },
+    {
+        "id": 1010,
+        "language": "Japanese ",
+        "Category": "Basic",
+        "seat": 18,
+        "price": 290,
+        "img": "images/10.jpg",
+        "rating": 5,
+        "teacher": "Nore Fathea",
+        "duration": "3 Month",
+        "description": "The Japanese culture is one of the most unique in the world. Learn the language and plunge into its history, fashion, and martial arts. It will make your different. Learning Japanese provides you unique opportunities unavailable to most people.Japanese is the ninth most commonly spoken language worldwide. It is the national language of Japan. But this does not mean that it is spoken only there. There is a huge Japanese diaspora in the USA, Brazil, the UK, France, Germany, and others. It is also considered the minority language in the Republic of Palau. Moreover, around 15% of Hawaiian residents and 1% of Californians speak Japanese. It is the East Asian language, which belongs to the Japonic language family. Japanese is spoken by about 128 million people, primarily in Japan.. It is spoken as the first language in France, Quebec, Ontario, Belgium, Bern, Monaco, in some parts of the United States (New Hampshire, Louisiana, Vermont, and Maine), in northern Italy, and partly in Luxembourg."
+    }
+]

@@ -1,0 +1,10 @@
+.t-banner{
+    background-image: linear-gradient(rgb(137 44 44 / 72%), rgb(80 0 0 / 80%)), url(../../images/tBack.jpg);
+    padding:200px 0 50px 0;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+}
+
+

@@ -1,0 +1,80 @@
+[
+    {
+        "id": 2001,
+        "language": "Spanish  ",
+        "email": "kaylin@gmail.com",
+        "skype": "kaylin.moore",
+        "courses": 3,
+        "followers": 240,
+        "img": "images/t1.jpg",
+        "rating": 4.5,
+        "teacher": "Kaylin Moore",
+        "phone": "+863946739",
+        "description": "According to the research made by the University of Lyon, Spanish is considered to be the easiest language to learn. No wonder it is ranked as the world's second widely spoken language after Chinese (Mandarin). Besides, it is the third language widely used in the net, after Chinese and English."
+    },
+    {
+        "id": 2002,
+        "language": "French ",
+        "email": "nuricikana@gmail.com",
+        "skype": "nuricikana.asdf",
+        "courses": 5,
+        "followers": 195,
+        "img": "images/t2.jpg",
+        "rating": 5,
+        "teacher": "Nuri Cikana",
+        "phone": "+835446739",
+        "description": "French is the language of Molière, Victor Hugo, Jean-Paul Sartre, Alain Delon, Edith Piaf, and Zinedine Zidane! Moreover, it’s the international language of fashion, cooking, theatre, visual arts, architecture, and dance.French is the fifth most widely spoken language in the world and the second most widely."
+    },
+    {
+        "id": 2003,
+        "language": "Italian ",
+        "email": "lvardarre@gmail.com",
+        "skype": "arre.lvardarre",
+        "courses": 4,
+        "followers": 200,
+        "img": "images/t3.jpg",
+        "rating": 4.7,
+        "teacher": "Alvard arre",
+        "phone": "+835446739",
+        "description": "one of the richest and most complex languages in the world. To understand it, one should first explore the Russian soul. And if you want to go into to space and become an astronaut, you have to know Russian! Nowadays, it’s a requirement for NASA candidates to speak this language."
+    },
+    {
+        "id": 2004,
+        "language": "Italian ",
+        "email": "lvardarre@gmail.com",
+        "skype": "arre.lvardarre",
+        "courses": 4,
+        "followers": 200,
+        "img": "images/t4.jpg",
+        "rating": 4.7,
+        "teacher": "Alvard arre",
+        "phone": "+826458739",
+        "description": " you are planning to visit Italy or read the great literary heritage like The Divine Comedy by Dante in original, Italian is here for you!Besides Italy, the Italian language has its official status in such countries as Switzerland, Vatican City, San Marino, and some parts of Slovakia and Croatia."
+    },
+    {
+        "id": 2005,
+        "language": "Chinese  ",
+        "email": "chiknachora@gmail.com",
+        "skype": "chickna.chora",
+        "courses": 4.5,
+        "followers": 230,
+        "img": "images/t5.jpg",
+        "rating": 4.7,
+        "teacher": "Chikna Chora",
+        "phone": "+835126739",
+        "description": "Knowledge of Chinese is essential for those who are going to do business in the East or discover the world of the most ancient literature.Chinese falls into 7-13 dialects that are widely spoken by people worldwide. They are known as the Sinitic languages and are included in the Sino-Tibetan language family."
+    },
+    {
+        "id": 2006,
+        "language": "Russian ",
+        "email": "kollanimondil@gmail.com",
+        "skype": "kollani.mondil",
+        "courses": 4.5,
+        "followers": 270,
+        "img": "images/t6.jpg",
+        "rating": 5,
+        "teacher": "Kollani Mondil",
+        "phone": "+845916728",
+        "description": "Latin is the language that has given life to five modern languages of the Romance group. They are widely spoken around the world and include French, Spanish, Italian, Portuguese, and Romanian. In brief, Latin has a rich history, as it was the language of the Roman Empire and died out with its fall."
+    }
+]
