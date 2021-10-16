@@ -40,7 +40,7 @@ const Header = () => {
                     <div>
                         {
                             user.email ?
-                                <img onClick={toggleText} className="w-12" src={pro1} alt="" />
+                                <img style={{ cursor: 'pointer' }} onClick={toggleText} className="w-12" src={pro1} alt="" />
                                 :
                                 < NavLink className="manu-item p-2 text-lg font-bold bg-red-800 rounded-md" to="/login"> LogIn </NavLink >
 
