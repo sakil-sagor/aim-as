@@ -7,6 +7,7 @@ import Services from '../Services/Services';
 import BasicServices from '../Services/BasicServices';
 import MotherTongueServices from '../Services/MotherTongueServices';
 import ConversationServices from '../Services/ConversationServices';
+import ServicesDetails from '../ServicesDetails/ServicesDetails';
 
 const AllServices = () => {
     const [toggleState, setToggleState] = useState(1);
@@ -23,6 +24,7 @@ const AllServices = () => {
                     <li className={toggleState === 4 ? 'tabs active-tabs' : 'tabs'} onClick={() => toogleTab(4)}>Mother Tongue</li>
                 </ul >
             </div >
+
             <div className="tab-content-container">
                 <div className={toggleState === 1 ? 'tab-content tab-active-content' : "tab-content"}>
                     <Services></Services>

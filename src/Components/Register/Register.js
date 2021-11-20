@@ -1,10 +1,30 @@
 import React from 'react';
 import c1 from '../../images/c1.png'
-import { NavLink } from 'react-router-dom';
+import { NavLink, useLocation, useHistory } from 'react-router-dom';
 import useAuth from '../../Hooks/useAuth';
 
 const Register = () => {
-    const { error, getEmail, getPassword, handelRegister, googleLogin } = useAuth();
+    const { error, setUser, email, password, setError, getEmail, getPassword, handelRegister, googleLogin } = useAuth();
+
+
+    const location = useLocation();
+    const history = useHistory();
+    const redirect_url = location.state?.from || './home'
+
+    const register = (event) => {
+        event.preventDefault();
+        handelRegister()
+            .then((userCredential) => {
+                const user = userCredential.user;
+                setUser(user);
+                history.push(redirect_url);
+            })
+            .catch((error) => {
+                const errorMessage = error.message;
+                setError(errorMessage);
+            });
+    }
+
     return (
         <div className="login-page">
             <div className="container m-auto py-32 grid grid-cols-12 gap-4 items-center	">
@@ -16,7 +36,7 @@ const Register = () => {
                             <p className="text-red-600 font-semibold" >{error}</p>
                         </div>
                         <br />
-                        <form onSubmit={handelRegister}>
+                        <form onSubmit={register}>
                             <div >
                                 <input className="w-full p-2 text-lg outline-none border-2 border-pink-100" type="text" placeholder="Full Name" />
                             </div>

@@ -21,7 +21,7 @@ const Header = () => {
 
     return (
         // header nav bar area 
-        <div className="bg-pink-400	 ">
+        <div className="bg-pink-700	 ">
             <div className="container flex items-center	 justify-between m-auto p-4 text-white	">
                 {/* logo area  */}
                 <div className=" text-5xl	">

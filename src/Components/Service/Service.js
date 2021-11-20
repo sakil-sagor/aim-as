@@ -1,8 +1,9 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 // single services components 
 const Service = (props) => {
     // prpos from services hook 
-    const { language, seat, price, img, teacher, description } = props.service;
+    const { id, language, seat, price, img, teacher, description } = props.service;
     return (
         <div className=" shadow-2xl rounded-xl">
             <div className="service-img ">
@@ -20,7 +21,9 @@ const Service = (props) => {
                 </div>
                 <div className="flex items-center justify-between py-3">
                     <p className="text-pink-900 text-lg">Price: <span className="text-green-900 text-3xl">${price}</span></p>
-                    <button className="text-lg text-white px-3 py-1 bg-pink-400  hover:bg-pink-700   radiou rounded-lg ">Join Now</button>
+                    <NavLink to={`allServices/${id}`}>
+                        <button className="text-lg text-white px-3 py-1 bg-pink-400  hover:bg-pink-700   radiou rounded-lg ">Join Now</button>
+                    </NavLink>
                 </div>
             </div>
         </div >

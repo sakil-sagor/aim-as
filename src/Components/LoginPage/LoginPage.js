@@ -5,7 +5,7 @@ import { NavLink, useLocation, useHistory } from 'react-router-dom';
 import useAuth from '../../Hooks/useAuth';
 
 const LoginPage = () => {
-    const { error, setUser, setError, getEmail, getPassword, handelLogin, googleLogin } = useAuth();
+    const { isLoading, setIsLoading, error, setUser, setError, getEmail, getPassword, handelLogin, googleLogin } = useAuth();
 
     const location = useLocation();
     const history = useHistory();
@@ -13,25 +13,35 @@ const LoginPage = () => {
 
 
     const loginGoogle = () => {
+
         googleLogin()
+            // setIsLoading(true)
             .then(result => {
+                setUser(result.user)
                 history.push(redirect_url);
             })
+            .finally(() => setIsLoading(false));
     }
 
-    const customLogin = () => {
-
+    const customLogin = (event) => {
+        event.preventDefault();
         handelLogin()
             .then((userCredential) => {
                 const user = userCredential.user;
                 setUser(user);
                 console.log(user);
                 history.push(redirect_url);
+
             })
             .catch((error) => {
                 const errorMessage = error.message;
                 setError(errorMessage);
-            });
+            })
+            .finally(() => setIsLoading(false));
+
+
+
+
     }
 
 

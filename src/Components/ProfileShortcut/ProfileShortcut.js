@@ -6,10 +6,6 @@ import './ProfileShortcut.css'
 const ProfileShortcut = () => {
     const { handelLogout } = useAuth();
 
-
-
-
-
     return (
 
         <div className="profile-shortcut">

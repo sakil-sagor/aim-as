@@ -15,6 +15,7 @@ import Register from './Components/Register/Register';
 import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 import ProfilePage from './Components/ProfilePage/ProfilePage';
 import AllServices from './Components/AllServices/AllServices';
+import ServicesDetails from './Components/ServicesDetails/ServicesDetails';
 
 function App() {
   return (
@@ -32,6 +33,9 @@ function App() {
             <Route exact path="/allServices">
               <AllServices></AllServices>
             </Route>
+            <PrivateRoute exact path="/allServices/:idService">
+              <ServicesDetails></ServicesDetails>
+            </PrivateRoute>
             <Route exact path="/teachers">
               <Teachers></Teachers>
             </Route>

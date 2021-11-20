@@ -1,0 +1,7 @@
+.course-img-container{
+    background-image: linear-gradient(rgb(137 44 44 / 72%), rgb(80 0 0 / 80%)), url(../../images/8.jpg);
+    padding:100px 0 100px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
